@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+@font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  /* Integral CF - Medium Oblique */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-mediumoblique.otf') format('opentype');
+    font-weight: 500;
+    font-style: oblique;
+  }
+  
+  /* Integral CF - DemiBold */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-demibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  /* Integral CF - DemiBold Oblique */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-demiboldoblique.otf') format('opentype');
+    font-weight: 600;
+    font-style: oblique;
+  }
+  
+  /* Integral CF - Bold */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('fonts/Fontspring-DEMO-integralcf-bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  /* Integral CF - Bold Oblique */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-boldoblique.otf') format('opentype');
+    font-weight: 700;
+    font-style: oblique;
+  }
+  
+  /* Integral CF - ExtraBold */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-extrabold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  /* Integral CF - ExtraBold Oblique */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-extraboldoblique.otf') format('opentype');
+    font-weight: 800;
+    font-style: oblique;
+  }
+  
+  /* Integral CF - Heavy */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-heavy.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  /* Integral CF - Heavy Oblique */
+  @font-face {
+    font-family: 'Integral CF';
+    src: url('./fonts/Fontspring-DEMO-integralcf-heavyoblique.otf') format('opentype');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
